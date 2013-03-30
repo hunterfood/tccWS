@@ -1,10 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /build
 =======
+=======
+>>>>>>> 563c88ff7cd12ef2e12c900d9751e7a6653e3b20
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+<<<<<<< HEAD
 >>>>>>> b995551b09ca2cbfd623d9b42ca06b1cc2b3b3b8
+=======
+>>>>>>> 563c88ff7cd12ef2e12c900d9751e7a6653e3b20
